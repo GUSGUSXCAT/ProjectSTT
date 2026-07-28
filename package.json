@@ -1,0 +1,12 @@
+{
+  "name": "firestore-export",
+  "version": "1.0.0",
+  "description": "Export Firestore data to JSON",
+  "main": "export-firestore.js",
+  "scripts": {
+    "export": "node export-firestore.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
