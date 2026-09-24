@@ -2,6 +2,8 @@
 📖 LumoRead
 
 เว็บแอปพลิเคชันฝึกอ่านภาษาไทยด้วยเทคโนโลยีรู้จำเสียงพูด (Thai ASR) สำหรับนักเรียนประถมศึกษาปีที่ 1–3
+
+
 <img width="1380" height="626" alt="124" src="https://github.com/user-attachments/assets/beb06952-96be-4f5a-94eb-122c19365690" />
 
 เกี่ยวกับโครงงาน
