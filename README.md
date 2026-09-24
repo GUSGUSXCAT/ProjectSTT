@@ -1,16 +1,29 @@
-# myproject
+<div align="center">
+📖 LumoRead
 
-A new Flutter project.
+เว็บแอปพลิเคชันฝึกอ่านภาษาไทยด้วยเทคโนโลยีรู้จำเสียงพูด (Thai ASR) สำหรับนักเรียนประถมศึกษาปีที่ 1–3
+<img width="1380" height="626" alt="124" src="https://github.com/user-attachments/assets/beb06952-96be-4f5a-94eb-122c19365690" />
 
-## Getting Started
+เกี่ยวกับโครงงาน
 
-This project is a starting point for a Flutter application.
+LumoRead เป็นโครงงานพิเศษ (BIT04) หลักสูตรเทคโนโลยีสารสนเทศ วิทยาลัยการคอมพิวเตอร์ มหาวิทยาลัยขอนแก่น พัฒนาขึ้นเพื่อช่วยนักเรียนชั้น ป.1–ป.3 โรงเรียนบ้านวังหว้าใหญ่ ฝึกอ่านออกเสียงภาษาไทย ระบบจะฟังเสียงที่นักเรียนอ่าน แปลงเป็นข้อความด้วยโมเดล Wav2Vec2 ที่ Fine-tune สำหรับภาษาไทย แล้วตรวจสอบความถูกต้องให้ทันที พร้อมเสียงอ่านตัวอย่างจาก Text-to-Speech
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center"> <img src="docs/screenshots/student-home.png" alt="หน้าหลักนักเรียน" width="800"> </p>
+✨ ฟีเจอร์หลัก
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+นักเรียน
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ฝึกอ่านตามหมวดหมู่: คำควบกล้ำ, อักษรนำ, มาตราตัวสะกดทั้ง 9 มาตรา (แม่ ก กา, กก, กบ, กด, เกอว, เกย, กม, กน, กง), คำศัพท์พื้นฐาน และประโยคสั้น
+อ่านออกเสียงแล้วระบบตรวจคำตอบอัตโนมัติด้วย ASR
+ฟังเสียงอ่านตัวอย่างก่อนฝึก (TTS)
+ทำแบบทดสอบและดูประวัติคะแนนย้อนหลัง
+
+ครู
+
+จัดการแบบฝึกหัด หัวข้อ และคำถาม (เพิ่ม/แก้ไข/ลบ) แยกตามระดับชั้น
+ติดตามผลการเรียนของนักเรียนผ่านกราฟสรุปคะแนน
+เลื่อนชั้นนักเรียน
+
+ผู้ดูแลระบบ
+
+จัดการบัญชีผู้ใช้ทุกบทบาท และดูข้อเสนอแนะจากผู้ใช้
