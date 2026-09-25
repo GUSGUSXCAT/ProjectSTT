@@ -12,6 +12,11 @@ LumoRead เป็นโครงงานพิเศษ (BIT04) หลัก�
 
  นักเรีนสามารถอ่านออกเสียงคำศัพท์ได้ <img width="1378" height="621" alt="12444" src="https://github.com/user-attachments/assets/c2bdece1-3832-4b0e-beb7-4ecec8361789" />
 
- หน้าต่างแสดงรายการคำที่ตอบผิดในแต่ละแบบฝึกหัด <img width="733" height="334" alt="ดน" src="https://github.com/user-attachments/assets/67c297d9-935a-4cdd-bfb7-7cab19eed2a0" />
+ หน้าต่างแสดงรายการคำที่ตอบผิดในแต่ละแบบฝึกหัด 
+ 
+ <img width="733" height="334" alt="ดน" src="https://github.com/user-attachments/assets/67c297d9-935a-4cdd-bfb7-7cab19eed2a0" />
 
 
+หน้าจอช่วยเหลือออกแบบมาเพื่อช่วยแก้ปัญหาเบื้องต้นที่นักเรียนอาจพบระหว่างการใช้งานระบบ โดยเฉพาะปัญหาทางเทคนิคที่เกี่ยวข้องกับการใช้ไมโครโฟนและเสียง ซึ่งเป็นส่วนสำคัญของระบบฝึกอ่านออกเสียง นักเรียนสามารถเข้าถึงหน้าจอช่วยเหลือได้จากเมนู "ช่วยเหลือ" ในแถบเมนูด้านซ้าย ของหน้าหลัก
+
+<img width="940" height="427" alt="4521" src="https://github.com/user-attachments/assets/f1019218-4acd-41da-9bf9-6e9f10393d49" />
